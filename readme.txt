@@ -1,5 +1,5 @@
 work on branch dev 
-
+all the members Install angular 
 
 Kneni: The Architect
 Primary Responsibility: Project initialization and foundation.
